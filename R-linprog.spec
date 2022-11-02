@@ -4,7 +4,7 @@
 #
 Name     : R-linprog
 Version  : 0.9.4
-Release  : 24
+Release  : 25
 URL      : https://cran.r-project.org/src/contrib/linprog_0.9-4.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/linprog_0.9-4.tar.gz
 Summary  : Linear Programming / Optimization
